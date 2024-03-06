@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Kanit;
+}
+.c-navbar
+{
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+
+.hide-loader
+{
+    display: none !important;
+}
+
+.logout-btn-admin
+{
+    color: red !important;
+}
